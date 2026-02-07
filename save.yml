@@ -1,0 +1,7 @@
+--- !ruby/object:Hangman
+secret_word: continuously
+correct_letters:
+- u
+wrong_letters:
+- a
+remaining_guesses: 5
